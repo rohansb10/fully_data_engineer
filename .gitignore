@@ -1,3 +1,6 @@
+# Ignore the virtual environment folder
+myenv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
